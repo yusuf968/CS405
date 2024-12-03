@@ -42,3 +42,5 @@ Implemented setSpecularLight method to pass specular parameters to the shader.
 User Interface:
 Added a function SetSpecularLight that adjusts the specular intensity based on user input (e.g., a slider control).
 Users can dynamically adjust the specular intensity during runtime.
+
+Changes have only been made to the project2.js file, the remaining files have not been edited.
